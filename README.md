@@ -1,1 +1,1 @@
-The following code is for the lab assignment uing html, css and javascript.
+The following code is for the lab assignment using html, css and javascript.
